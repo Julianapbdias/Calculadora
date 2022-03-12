@@ -6,6 +6,15 @@
 h1 {
     text-align: center;
     color:black;
+    text-shadow: 0.1em 0.1em 0.2em blue;
+    font-size: 40px;
+}
+    
+h2 {
+    text-align: center;
+    color:white;
+    text-shadow: 0.1em 0.1em 0.2em gray;
+    font-size: 30px;    
 }
 
 .fundo {
@@ -16,7 +25,7 @@ h1 {
 
 .calculadora {
     position: absolute;
-    background-color: black;
+    background-color: rgb(0, 0, 0, 0.8);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -25,5 +34,52 @@ h1 {
 }
 
 .button {
-    
+    background-color: gray;
+    color: black;
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 2px;
 }
+.button:hover{
+    background-color: aqua;
+}
+
+.button-equal {
+    background-color: gray;
+    color: black;
+    width: 50px;
+    height: 106px;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 2px;
+}
+.button:hover{
+    background-color: aqua;}
+
+.button-zero {
+        background-color: gray;
+        color: black;
+        width: 106px;
+        height: 50px;
+        font-size: 25px;
+        cursor: pointer;
+        border-radius: 5px;
+        margin: 2px;
+    }
+    .button:hover{
+        background-color: aqua;}
+    
+    #resultado {
+        background-color: white;
+        width: 203px;
+        height: 30px;
+        margin: 5px;
+        text-align:right;
+        color: black;
+        font-size: 25px;
+        padding: 5px;
+    }

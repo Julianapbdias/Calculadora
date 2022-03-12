@@ -4,7 +4,7 @@
 
 Calculadora criada utilizando HTML, CSS e Javascript.
 Baseada em aula do Youtube de Gustavo Neitzke.
-Modifiquei alguns parâmetros e, aoo invés de utilizar o mesmo arquivo para HTML, CSS e JS, coloquei separados para fins didáticos.
+Modifiquei alguns parâmetros e, ao invés de utilizar o mesmo arquivo para HTML, CSS e JS, coloquei separados para fins didáticos.
 
 ## 🔧 Funcionalidade
 

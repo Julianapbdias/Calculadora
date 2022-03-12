@@ -2,7 +2,7 @@
 
 # Calculadora-JulianaBastos
 
-Calculadora criada utilizando HTML, CSS e Javascript.
+Calculadora criada utilizando HTML, CSS e, especialmente, Javascript.
 Baseada em aula do Youtube de Gustavo Neitzke.
 Modifiquei alguns parâmetros e, ao invés de utilizar o mesmo arquivo para HTML, CSS e JS, coloquei separados para fins didáticos.
 
